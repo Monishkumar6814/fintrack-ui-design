@@ -59,10 +59,14 @@ The design focuses on:
 
 ---
 
-## 🔗 Figma Project Link
+## 🔗 Project Links
 
-👉 **View the full case study and prototype here:**  
+- 🎨 UI Design & Prototype (Figma):  
 https://www.figma.com/design/oGnKEa6yTNplA7hQ3fB8Zm/Fintrack-complete?m=auto&t=0UYBqXFpqvUXSSs7-6
+
+- 🧠 Empathy Map and User Flow (FigJam):  
+https://www.figma.com/board/8vu4AcxtU1lbdGIa2VvMOq/Empathy-Map-%E2%80%93-Young-Professional-User?node-id=0-1&t=HwpxrwWwFcq6bQqG-1
+
 
 > *🔒 Only view access is enabled. No editing possible.*
 
