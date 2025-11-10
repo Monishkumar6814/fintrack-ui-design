@@ -59,9 +59,6 @@ The design focuses on:
 
 ---
 
-
----
-
 ## 🔗 Figma Project Link
 
 👉 **View the full case study and prototype here:**  
